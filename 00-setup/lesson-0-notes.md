@@ -20,6 +20,12 @@
 I learned how to create a basic Java class in Eclipse and run it successfully.  
 I also checked that Git is installed on my Mac and prepared my GitHub learning repository.
 
+### Git problem I solved
+
+I accidentally created or used a Git repository in the wrong place at first.  
+After checking `git status`, I learned that the repository root must be the project folder, not my Mac home folder.  
+I also learned the difference between local changes, remote changes, pull, merge, and push.
+
 ### What confused me
 
 Nothing confused me during this setup step.
@@ -58,6 +64,12 @@ My next goal is to learn Java variables, strings, and output.
 
 Eclipseで基本的なJavaクラスを作成し、正常に実行する方法を学びました。  
 また、MacにGitがインストールされていることを確認し、GitHubの学習用リポジトリを準備しました。
+
+### 解決したGitの問題
+
+最初に、間違った場所でGitリポジトリを作成・使用してしまいました。  
+`git status`を確認して、リポジトリのルートはMacのホームフォルダではなく、プロジェクトフォルダである必要があると学びました。  
+また、ローカル側の変更、リモート側の変更、pull、merge、pushの違いを学びました。
 
 ### 分からなかったこと
 
