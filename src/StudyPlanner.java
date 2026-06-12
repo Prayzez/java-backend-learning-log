@@ -19,7 +19,7 @@ public class StudyPlanner {
 		
 		double totalStudyHours = studyMonths * 4 * weeklyHours;
 		
-		System.out.println();
+		System.out.println(); //Extra line to improve readability 読みやすさを向上させるための追加行
 		System.out.println("Study Plan Summary");
 		System.out.println("Nickname: " + nickname);
 		System.out.println("ニックネーム: " + nickname);
