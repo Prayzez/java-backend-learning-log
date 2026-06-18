@@ -8,7 +8,7 @@ public class StudyMethodDemo {
 		System.out.print("Enter your study goal: "); // 学習目標を入力してください：
 		String studyGoal = scanner.nextLine();
 
-		System.out.print("How many weeks do you plan to study? "); // 何週間勉強しますか？
+		System.out.print("How many weeks do you plan to study? "); // 何週間勉強予定ですか？
 		int weeks = scanner.nextInt();
 
 		System.out.print("How many hours do you study each week? "); // 毎週何時間勉強しますか？
