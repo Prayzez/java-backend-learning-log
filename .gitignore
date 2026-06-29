@@ -1,1 +1,15 @@
-/bin/
+# Compiled class files
+*.class
+bin/
+
+# Eclipse / Java-extension project files
+.classpath
+.project
+.settings/
+.factorypath
+
+# VS Code workspace settings
+.vscode/
+
+# macOS
+.DS_Store
